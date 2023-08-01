@@ -1,6 +1,6 @@
 # crobotstxt
 
-A C wrapper for [google/robotstxt](github.com/google/robotstxt).
+A C wrapper for [google/robotstxt](https://github.com/google/robotstxt).
 
 ## Building with CMake
 
